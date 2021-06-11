@@ -38,3 +38,6 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
     PRIVATE_BUILD_DESC="OnePlus9R-user 11   release-keys"
 
 BUILD_FINGERPRINT := OnePlus/OnePlus9R_IND/OnePlus9R:11/RKQ1.201112.002/2104090029:user/release-keys
+
+# Bootanimation
+scr_resolution := 1080
