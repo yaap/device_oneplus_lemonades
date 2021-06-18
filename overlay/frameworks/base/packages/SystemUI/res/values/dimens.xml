@@ -39,4 +39,7 @@
 
     <!-- The absolute side margins of quick settings -->
     <dimen name="rounded_corner_content_padding">30px</dimen>
+
+    <!-- Biometric Prompt -->
+    <dimen name="biometric_dialog_fod_margin">96dp</dimen>
 </resources>
