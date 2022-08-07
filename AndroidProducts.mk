@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_kebab.mk
+    $(LOCAL_DIR)/yaap_kebab.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_kebab-user \
-    lineage_kebab-userdebug \
-    lineage_kebab-eng
+    yaap_kebab-user \
+    yaap_kebab-userdebug \
+    yaap_kebab-eng
